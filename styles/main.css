@@ -1,0 +1,45 @@
+header {
+  background-color: #03b503;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  height: 75px;
+  width: 100vw;
+  margin: -10px;
+  text-align: left
+}
+
+nav > button {
+  appearance: none;
+  border: none;
+  background-color: #03b503;
+  width: 999vw;
+  margin-left: 100px;
+}
+
+nav a {
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+
+nav {
+  display: flex;
+  text-align: left;
+
+}
+
+.container {
+  width: 100vw;
+  max-width: 300px;
+  margin: 0 auto;
+}
+body {
+  background-color: #ffffff;
+}
+.project1 {
+  background-color: #ff00aa;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin: 0;
+  height: 100px;
+  margin: -10px;;
+  width: 100vw;
+  text-align: center;
+}
